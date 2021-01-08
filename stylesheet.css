@@ -253,6 +253,8 @@ input[type=submit]:hover {
 /*header title*/
 .blogname{
   color: rgb(10, 238, 238);
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /* Right column */
 .rightcolumn {
