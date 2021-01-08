@@ -40,7 +40,27 @@
     </div>
     
     <div class="nav-links">
-      <a href="index.html"><i class="fa fa-home"></i>PORTFOLIO</a>
+      <a href="index.html"><div id="div1" class="fa"></div>PORTFOLIO</a>
+      <!--script of  animated icon for portfolio tab-->
+      <script>
+        function smile() {
+          var a;
+          a = document.getElementById("div1");
+          a.innerHTML = "&#xf118;";
+          setTimeout(function () {
+              a.innerHTML = "&#xf11a;";
+            }, 1000);
+          setTimeout(function () {
+              a.innerHTML = "&#xf119;";
+            }, 2000);
+          setTimeout(function () {
+              a.innerHTML = "&#xf11a;";
+            }, 3000);
+        }
+        smile();
+        setInterval(smile, 4000);
+        </script>
+      <!--script of  animated icon for portfolio tab-->
       <a href="portfolio.html"><i class="fa fa-user-circle"></i>RESUME</a>
       <a href="https://github.com/sumitvarun" target="_blank"><i class="fa fa-github"></i>GitHub</a>
       <a href="contact.html"><i class="fa fa-address-card"></i>CONTACT</a>
