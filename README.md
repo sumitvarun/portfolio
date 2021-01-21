@@ -1,3 +1,9 @@
+[![GitHub license](https://img.shields.io/github/license/sumitvarun/portfolio?color=%23C70039)](https://github.com/sumitvarun/portfolio/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/sumitvarun/portfolio?color=%23FFC300)](https://github.com/sumitvarun/portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sumitvarun/portfolio?color=%23DAF7A6)](https://github.com/sumitvarun/portfolio/network)
+[![GitHub issues](https://img.shields.io/github/issues/sumitvarun/portfolio?color=%23581845)](https://github.com/sumitvarun/portfolio/issues)
+
+
 # portfolio
 https://sumitvarun.github.io/portfolio/
 ## This is a personal portfolio.
