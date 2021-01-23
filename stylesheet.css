@@ -33,6 +33,9 @@ body{
     margin-right: auto;
     margin-top: 100px;
     margin-bottom: 50px;
+    border: 5px solid rgb(255, 210, 7);
+    border-radius: 50%;
+    overflow: hidden;
   }
 
   * {
