@@ -321,7 +321,10 @@ input[type=submit]:hover {
 /*github_statscard*/
 .github_statscard{
   text-decoration-color: #aaa;
-  color:white;
+  color:rgb(255, 209, 2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:20px;
+  font-weight:400;
 }
 
 /*github_statscard*/
