@@ -11,7 +11,7 @@ body{
     
   }
   .Titlename{
-    color: rgb(245, 249, 250);
+    color: rgb(128, 136, 138);
     text-align: center;
     margin-bottom: 25px;
     
@@ -45,7 +45,7 @@ body{
   body {
     margin: 0px;
     font-family: 'segoe ui';
-    background-color:rgb(7, 72, 88);
+    background-color:rgb(208, 221, 224);
   }
   
   .nav {
@@ -80,11 +80,14 @@ body{
     display: inline-block;
     padding: 13px 10px 13px 10px;
     text-decoration: none;
-    color: #efefef;
+    color: #221f1f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:600;
   }
   
   .nav > .nav-links > a:hover {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(255, 246, 246, 0.932);
+    color: #d10426;
   }
   
   .nav > #nav-check {
@@ -117,7 +120,7 @@ body{
       position: absolute;
       display: block;
       width: 100%;
-      background-color: #333;
+      background-color: rgb(228, 245, 245);
       height: 0px;
       transition: all 0.3s ease-in;
       overflow-y: hidden;
@@ -321,7 +324,7 @@ input[type=submit]:hover {
 /*github_statscard*/
 .github_statscard{
   text-decoration-color: #aaa;
-  color:rgb(255, 209, 2);
+  color:rgb(27, 27, 23);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size:20px;
   font-weight:400;
@@ -371,9 +374,17 @@ h3 {
 /*CLOCK*/
 
 .AMITY_TEXT{
-  color: #dce1e6;
+  color: #60666d;
   font-size: 20pt;
   font-weight:400;
   text-align: center;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.AMITY_TEXT:hover{
+  color: #d10426;
+}
+.footer_sumitvarun:hover{
+  color: #d10426;
+
 }
