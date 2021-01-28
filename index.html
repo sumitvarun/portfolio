@@ -1,6 +1,14 @@
 <!doctype html>
 <html lang="en">
   <head>
+
+    <!--firebase performance sdk-->
+    <script>(function(sa,fbc){function load(f,c){var a=document.createElement('script');
+      a.async=1;a.src=f;var s=document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(a,s);}load(sa);
+      window.addEventListener('load',function(){firebase.initializeApp(fbc).performance()});
+      })(performance_standalone, firebaseConfig);</script>
+    <!--firebase performance sdk-->
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
