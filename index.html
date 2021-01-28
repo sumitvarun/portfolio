@@ -378,6 +378,30 @@ function drawHand(ctx, pos, length, width) {
 
 <!-- Initialize Firebase -->
 <script src="/__/firebase/init.js"></script>
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.2.4/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/8.2.4/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyDCymkA4oaGWznIwqfPoF9myobLiQH3fwU",
+    authDomain: "my-portfolio-302711.firebaseapp.com",
+    projectId: "my-portfolio-302711",
+    storageBucket: "my-portfolio-302711.appspot.com",
+    messagingSenderId: "578077673253",
+    appId: "1:578077673253:web:b049577f2ed4d7a26efccc",
+    measurementId: "G-6K88KRQGQP"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
     <!--FIREBASE SDK CODE FILES-->
   </body>
 </html>
