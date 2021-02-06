@@ -403,11 +403,13 @@ h3 {
   font-weight: 200;
   color: white;
   text-align: center;
+  margin-top: 0pt;
+  padding-top: 30pt;
 }
 .skillicons{
-padding-left:40pt;
-padding-right: 40pt;
+padding-left: 60pt;
+padding-right: 60pt;
 align-content:space-around;
-margin-right: 20pt;
+margin-right: 0pt;
 }
 /*skills*/
