@@ -405,6 +405,9 @@ h3 {
   text-align: center;
 }
 .skillicons{
-
+padding-left:40pt;
+padding-right: 40pt;
+align-content:space-around;
+margin-right: 20pt;
 }
 /*skills*/
