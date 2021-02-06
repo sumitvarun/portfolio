@@ -10,6 +10,9 @@ body{
     border-radius: 50%;
     
   }
+  .navbar-brand{
+    border-radius: 50%;
+  }
   .Titlename{
     color: rgb(128, 136, 138);
     text-align: center;
