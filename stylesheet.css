@@ -20,6 +20,11 @@ body{
     
   }
 
+  .mediaicons{
+    align-items: center;
+    text-align: center;
+  }
+
   .html-rainbow-text span {
     font-family: monaco, consolas, 'Lucida Console', monospace;
     display: inline-block;
