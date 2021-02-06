@@ -300,7 +300,6 @@ input[type=submit]:hover {
   background-color: rgb(91, 141, 141);
   padding: 20px;
   margin-top: 20px;
-  margin-left: 30pt;
 }
 
 /* Clear floats after the columns */
