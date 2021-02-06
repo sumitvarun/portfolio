@@ -276,15 +276,16 @@ input[type=submit]:hover {
 
 /*header title*/
 .blogname{
-  color: rgb(10, 238, 238);
+  color: rgb(175, 91, 140);
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /* Right column */
 .rightcolumn {
   float: left;
-  width: 25%;
+  width: 22%;
   padding-left: 20px;
+  
 }
 
 /* Fake image */
@@ -296,9 +297,10 @@ input[type=submit]:hover {
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: rgb(91, 141, 141);
   padding: 20px;
   margin-top: 20px;
+  margin-left: 30pt;
 }
 
 /* Clear floats after the columns */
