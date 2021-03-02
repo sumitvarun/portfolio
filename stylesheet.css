@@ -435,7 +435,6 @@ align-content:space-between;
   float: left;
   width: 33.33%;
   display: none; /* Hide columns by default */
-
 }
 
 /* Clear floats after rows */
@@ -484,5 +483,9 @@ align-content:space-between;
   font-size: larger;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
+}
+
+.columnFlutter{
+  
 }
 /*Projects*/
