@@ -448,6 +448,8 @@ align-content:space-between;
 .content {
   background-color: white;
   padding: 10px;
+  border-radius: 20px;
+  
 }
 
 /* The "show" class is added to the filtered elements */
@@ -485,7 +487,5 @@ align-content:space-between;
   text-align: center;
 }
 
-.columnFlutter{
-  
-}
+
 /*Projects*/
