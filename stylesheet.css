@@ -14,7 +14,7 @@ body{
     border-radius: 50%;
   }
   .Titlename{
-    color: rgb(128, 136, 138);
+    color: rgb(167, 172, 173);
     text-align: center;
     margin-bottom: 25px;
     
@@ -41,7 +41,7 @@ body{
     margin-right: auto;
     margin-top: 100px;
     margin-bottom: 50px;
-    border: 5px solid rgb(255, 210, 7);
+    border: 5px solid rgb(7, 255, 234);
     border-radius: 50%;
     overflow: hidden;
   }
@@ -53,7 +53,7 @@ body{
   body {
     margin: 0px;
     font-family: 'segoe ui';
-    background-color:rgb(208, 221, 224);
+    background-color:#221f1f
   }
   
   .nav {
@@ -517,4 +517,8 @@ align-content:space-between;
 
 .github_statscard{
   background-color: #221f1f;
+}
+
+.resumebg{
+  background-color:;
 }
