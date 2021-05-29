@@ -276,7 +276,7 @@ input[type=submit]:hover {
 
 /*header title*/
 .blogname{
-  color: rgb(175, 91, 140);
+  color: rgb(35, 184, 243);
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -297,7 +297,7 @@ input[type=submit]:hover {
 
 /* Add a card effect for articles */
 .card {
-  background-color: rgb(91, 141, 141);
+  background-color: rgb(247, 241, 222);
   padding: 20px;
   margin-top: 20px;
 }
