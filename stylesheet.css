@@ -148,42 +148,7 @@ body{
     }
   }
 
-  .bg-video-wrap {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    height: 100vh;
-    background: url(https://designsupply-web.com/samplecontent/vender/codepen/20181014.png) no-repeat center center/cover;
-  }
-  video {
-    min-width: 100%;
-    min-height: 100vh;
-    z-index: 1;
-  }
-  .overlay {
-    width: 100%;
-    height: 100vh;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: linear-gradient(45deg, rgba(0,0,0,.3) 50%, rgba(0,0,0,.7) 50%);
-    background-size: 3px 3px;
-    z-index: 2;
-  }
-  .videotext{
-    text-align: center;
-    color: #fff;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    z-index: 3;
-    max-width: 400px;
-    width: 100%;
-    height: 50px;
-  }
+ 
 
   .button2{
     color:rgb(27, 218, 202);
@@ -345,7 +310,7 @@ input[type=submit]:hover {
 /*footer*/
 .container-fluid {
   overflow: hidden;
-  margin-top: 250px;
+  margin-top: 1px;
   background: white;
   color: #627482 !important;
   margin-bottom: 0;
