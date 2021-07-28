@@ -370,14 +370,16 @@ h3 {
   color: white;
   text-align: center;
   margin-top: 0pt;
+  margin-right: 10pt;
   padding-top: 30pt;
   padding-right: 40pt;
-  display:inline-block;
+  
 }
 .skillicons{
 padding-left: 60pt;
 padding-right: 60pt;
 align-content:space-between;
+display:contents;
 }
 /*skills*/
 
@@ -470,3 +472,4 @@ align-content:space-between;
 .resumebg{
   background-color:;
 }
+
