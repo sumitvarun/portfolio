@@ -423,25 +423,6 @@ align-content:space-between;
   display: block;
 }
 
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 12px 16px;
-  background-color:darkorange;
-  cursor: pointer;
-}
-
-/* Add a grey background color on mouse-over */
-.btn:hover {
-  background-color: #ddd;
-}
-
-/* Add a dark background color to the active button */
-.btn.active {
-  background-color: #666;
-   color: white;
-}
 
 .Projects{
   background-color: #221f1f;
@@ -458,7 +439,7 @@ align-content:space-between;
 
 /* css gradient button*/
 
-.btn-grad {background-image: linear-gradient(to right, #0c2ef0 0%, #00dbde  51%, #5306ac  100%)}
+.btn-grad {background-image: linear-gradient(to right, #06060796 0%, #18202438  51%, #f10c177e  100%)}
 .btn-grad {
    margin: 10px;
    padding: 15px 45px;
@@ -467,9 +448,9 @@ align-content:space-between;
    transition: 0.5s;
    background-size: 200% auto;
    color: white;            
-   box-shadow: 0 0 20px #eee;
+   box-shadow: 0 0 10px #eee;
    border-radius: 10px;
-   display: block;
+   display: inline-block;
  }
 
  .btn-grad:hover {
