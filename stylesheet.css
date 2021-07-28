@@ -363,7 +363,7 @@ h3 {
 
 }
 
-/*skills*/
+/*skills
 .skills{
   background-color: #221f1f;
   font-weight: 200;
@@ -374,6 +374,11 @@ h3 {
   padding-top: 30pt;
   padding-right: 40pt;
   
+}*/
+.skills{
+  font-weight: 200;
+  color: rgba(240, 247, 255, 0.699);
+  text-align: center;
 }
 .skillicons{
 padding-left: 60pt;
