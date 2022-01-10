@@ -54,6 +54,8 @@ body{
     margin: 0px;
     font-family: 'segoe ui';
     background-color:#221f1f
+   /* background-image: linear-gradient(to right, blue , indigo)*/
+
   }
   
   .nav {
@@ -476,6 +478,8 @@ display:contents;
 }
 
 .resumebg{
-  background-color:;
+  background-image: linear-gradient(to right, blue ,rgb(24, 2, 150),rgb(70, 2, 119))
+  
+
 }
 
