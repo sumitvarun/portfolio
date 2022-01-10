@@ -478,7 +478,8 @@ display:contents;
 }
 
 .resumebg{
-  background-image: linear-gradient(to right, blue ,rgb(24, 2, 150),rgb(70, 2, 119))
+  /*background-image: linear-gradient(to right, blue ,rgb(24, 2, 150),rgb(70, 2, 119))*/
+  background-image: linear-gradient(to left, rgb(5,39,95) ,rgb(4,13,33),rgb(0,0,0));
   
 
 }
