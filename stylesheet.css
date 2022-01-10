@@ -382,6 +382,7 @@ h3 {
   font-weight: 200;
   color: rgba(240, 247, 255, 0.699);
   text-align: center;
+  font-family: 'Exo 2', sans-serif;
 }
 .skillicons{
 padding-left: 60pt;
@@ -438,11 +439,13 @@ display:contents;
 
 .Projects{
   background-color: #221f1f;
+  font-family: 'Exo 2', sans-serif;
+
 }
 .Project_text{
   color: #ccc;
   font-size: larger;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
   text-align: center;
 }
 
@@ -492,3 +495,4 @@ display:contents;
   font-family: 'Exo 2', sans-serif;
   font-weight: 400;
 }
+
