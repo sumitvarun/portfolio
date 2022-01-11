@@ -53,8 +53,8 @@ body{
   body {
     margin: 0px;
     font-family: 'segoe ui';
-    background-color:#221f1f
-   /* background-image: linear-gradient(to right, blue , indigo)*/
+    /*background-color:#ffffff*/
+    background-image: linear-gradient(to right, rgb(3, 3, 65) , rgb(5, 1, 8))
 
   }
   
@@ -439,7 +439,8 @@ display:contents;
 
 
 .Projects{
-  background-color: #221f1f;
+  /*background-color: #221f1f;*/
+  background-image: linear-gradient(to right, rgb(3, 3, 65) , rgb(5, 1, 8))
   font-family: 'Exo 2', sans-serif;
 
 }
@@ -478,7 +479,8 @@ display:contents;
 /* css gradient button end here*/
 
 .github_statscard{
-  background-color: #221f1f;
+ /* background-color: #221f1f;*/
+ background-image: linear-gradient(to right, rgb(3, 3, 65) , rgb(5, 1, 8))
 }
 
 .resumebg{
