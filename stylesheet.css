@@ -440,7 +440,7 @@ display:contents;
 
 .Projects{
   /*background-color: #221f1f;*/
-  background-image: linear-gradient(to right, rgb(3, 3, 65) , rgb(5, 1, 8))
+  background-image: linear-gradient(to right, rgb(3, 3, 65) , rgb(5, 1, 8));
   font-family: 'Exo 2', sans-serif;
 
 }
