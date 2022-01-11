@@ -425,6 +425,7 @@ display:contents;
 /* Content */
 .content {
   background-color: white;
+  box-shadow: 0px 0px 20px 0px #07f6fa;
   padding: 10px;
   border-radius: 20px;
   color: black;
