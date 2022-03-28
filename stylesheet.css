@@ -72,6 +72,11 @@
     font-size: 22px;
     color:white;
     padding: 10px 10px 10px 10px;
+    font-family: 'Nunito Sans', sans-serif;
+   /* font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Quicksand', sans-serif;*/
   }
   
   .nav > .nav-btn {
