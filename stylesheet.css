@@ -73,7 +73,10 @@
     color:white;
     padding: 10px 10px 10px 10px;
     font-family: 'Nunito Sans', sans-serif;
-   /* font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+   /*font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Noto Sans', sans-serif;
 font-family: 'Nunito Sans', sans-serif;
 font-family: 'Pacifico', cursive;
 font-family: 'Quicksand', sans-serif;*/
@@ -95,8 +98,9 @@ font-family: 'Quicksand', sans-serif;*/
     text-decoration: none;
     color:rgb(250, 244, 244);
     background-color: black;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight:600;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Quicksand', sans-serif;
   }
   
   .nav > .nav-links > a:hover {
