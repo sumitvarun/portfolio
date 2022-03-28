@@ -76,7 +76,8 @@
     font-weight: 400;
    /* color:white;*/
     padding: 10px 10px 10px 10px;
-    font-family: 'Quicksand', sans-serif;
+    /*font-family: 'Quicksand', sans-serif;*/
+    font-family: 'Alliance', sans-serif;
     background: -webkit-linear-gradient(-70deg, #7ee787 0%, #02e9fa 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
