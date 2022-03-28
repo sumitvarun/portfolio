@@ -364,7 +364,8 @@ small {
 }
 
 .bold-text {
-  color: #989c9e !important
+  color: #989c9e !important;
+  font-family: 'Alliance', sans-serif;
 }
 
 .mt-55 {
