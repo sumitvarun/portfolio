@@ -73,10 +73,13 @@
   .nav > .nav-header > .nav-title {
     display: inline-block;
     font-size: 22px;
-    color:white;
+    font-weight: 400;
+   /* color:white;*/
     padding: 10px 10px 10px 10px;
     font-family: 'Quicksand', sans-serif;
-    
+    background: -webkit-linear-gradient(-70deg, #7ee787 0%, #02e9fa 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
    /*font-family: 'Montserrat', sans-serif;
 font-family: 'Montserrat Alternates', sans-serif;
 font-family: 'Noto Sans', sans-serif;
@@ -310,11 +313,36 @@ input[type=submit]:hover {
 
 /*github_statscard*/
 .github_statscard{
-  text-decoration-color: #aaa;
+  padding-top: 10pt;
+  padding-left: 10pt;
+  padding-right: 10pt;
+  margin-top: 7pt;
+  margin-left: 10pt;
+  margin-right: 10pt;
+  
+  border-top: dashed;
+  border-left: dashed;
+  border-right: dashed;
+  border-width: 2px;
+ color: #02e9fa;
+ border-radius: 20pt;
+  /*text-decoration-color: #aaa;
   color:rgb(27, 27, 23);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size:20px;
-  font-weight:400;
+  font-weight:400;*/
+}
+
+.Github_stats_text{
+  font-weight: 400;
+  background: -webkit-linear-gradient(-70deg, #a2facf 0%, #64acff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /*text-align: center;*/
+  padding: 13px 10px 13px 10px;
+  font-size: x-large;
+  font-family: 'Alliance', sans-serif;
+
 }
 
 /*github_statscard*/
