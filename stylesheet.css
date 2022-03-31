@@ -282,7 +282,7 @@ input[type=submit]:hover {
 
 /* Add a card effect for articles */
 .card {
-  background-color: rgb(247, 241, 222);
+  background-color: rgb(255, 255, 255);
   padding: 20px;
   margin-top: 20px;
 }
