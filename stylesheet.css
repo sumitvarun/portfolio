@@ -111,8 +111,8 @@ font-family: 'Quicksand', sans-serif;*/
   }
   
   .nav > .nav-links > a:hover {
-    background-color: rgba(255, 246, 246, 0.932);
-    color: #d10426;
+    background-color: rgb(252, 252, 252);
+    color: #030303;
   }
   
   .nav > #nav-check {
