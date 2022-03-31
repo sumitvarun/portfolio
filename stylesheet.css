@@ -258,9 +258,12 @@ input[type=submit]:hover {
 
 /*header title*/
 .blogname{
-  color: rgb(35, 184, 243);
+  background: -webkit-linear-gradient( -155deg, #d306fc 0%, #03ffea 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large;
+  font-family: 'Alliance', sans-serif;
 }
 /* Right column */
 .rightcolumn {
